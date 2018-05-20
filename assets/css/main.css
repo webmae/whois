@@ -1,6 +1,6 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
-
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower');
 /*
 	Read Only by HTML5 UP
 	html5up.net | @ajlkn
@@ -2477,6 +2477,7 @@
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
 			color: #ffffff;
+			font-family: "Lato", sans-serif;
 		}
 
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
