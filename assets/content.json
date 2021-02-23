@@ -1,5 +1,4 @@
 {
-
     "certifications" : [
       {
         "Delivery" : "UX Foundation Training",
@@ -144,6 +143,6 @@
         "Name" : "Appliquez les principes du Green IT dans votre entreprise",
         "Date" : "January 10th, 2020",
         "category" : "Project Management"
-      },
+      }
     ]
   }
