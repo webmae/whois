@@ -13,7 +13,16 @@ request.onload = function() {
 }
 //
 function showSkills(jsonObj) {
-  var certif = jsonObj['certifications'];
+    var certif = jsonObj['certifications'];
+
+    // sort by category
+    certif.sort(function compare(a, b) {
+    if (a.category < b.category)
+       return -1;
+    if (a.category > b.category)
+       return 1;
+    return 0;
+    }); 
 
   for (var i = 0; i < certif.length; i++) {
     var myTr = document.createElement('tr');
@@ -30,8 +39,7 @@ function showSkills(jsonObj) {
     myTdName.textContent = certif[i].Name;
     myTdDate.textContent = certif[i].Date;
     myTdcategory.textContent = certif[i].category;
-    //myURL.textContent = certif[i].Url;
-    //myURL = document.querySelector("a");
+
     myURL.setAttribute("href", certif[i].Url);
 
     myTr.appendChild(myTdDelivery);
