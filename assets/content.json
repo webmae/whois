@@ -1,0 +1,149 @@
+{
+
+    "certifications" : [
+      {
+        "Delivery" : "UX Foundation Training",
+        "Url" : "https://credly.com/credit/22859578",
+        "Serial" : "ID CREDLY-22859578",
+        "Name" : "UXTraining",
+        "Date" : "December 5th, 2019",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/3644885450",
+        "Serial" : "3644885450",
+        "Name" : "UX design : découvrez les fondamentaux !",
+        "Date" : "September 14th, 2019",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/2838111310",
+        "Serial" : "2838111310",
+        "Name" : "Améliorez l'impact de vos présentations",
+        "Date" : "January 3rd, 2020",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/2838111310",
+        "Serial" : "2838111310",
+        "Name" : "Découpez et intégrez une maquette",
+        "Date" : "January 3rd, 2020",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/9990416078",
+        "Serial" : "9990416078",
+        "Name" : "Appropriez-vous la démarche UX en pratique",
+        "Date" : "January 12th, 2020",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/5769194547",
+        "Serial" : "5769194547",
+        "Name" : "Animez un atelier de créativité",
+        "Date" : "January 04th, 2020",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/3515335792",
+        "Serial" : "3515335792",
+        "Name" : "Menez une recherche utilisateur",
+        "Date" : "January 03th, 2020",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/5105249853",
+        "Serial" : "5105249853",
+        "Name" : "Communiquez et formalisez vos idées par le storytelling",
+        "Date" : "January 04th, 2020",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/5650863757",
+        "Serial" : "5650863757",
+        "Name" : "Appliquez la psychologie au design",
+        "Date" : "January 11th, 2020",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/8461874828",
+        "Serial" : "8461874828",
+        "Name" : "Analysez des données pour prendre des décisions de design",
+        "Date" : "March 30th, 2020",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/4923369141",
+        "Serial" : "4923369141",
+        "Name" : "Gérez un projet design avec plusieurs méthodes de UX mapping",
+        "Date" : "February 06th, 2020",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/4011690678",
+        "Serial" : "4011690678",
+        "Name" : "Créez et appliquez une charte graphique",
+        "Date" : "January 10th, 2020",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/5098242678",
+        "Serial" : "5098242678",
+        "Name" : "Apprenez à créer votre site web avec HTML5 et CSS3",
+        "Date" : "January 10th, 2020",
+        "category" : "Web Development & Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/6427306369",
+        "Serial" : "6427306369",
+        "Name" : "Prenez en main Bootstrap",
+        "Date" : "February 10th, 2020",
+        "category" : "Web Development & Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/1772341852",
+        "Serial" : "1772341852",
+        "Name" : "Gérez votre code avec Git et GitHub",
+        "Date" : "January 10th, 2020",
+        "category" : "Web Development & Design"
+      },
+      {
+        "Delivery" : "CF2m",
+        "Url" : "https://www.cf2m.be/developpeur-web/",
+        "Serial" : "-",
+        "Name" : "Webdevelopment",
+        "Date" : "2015 - 2017",
+        "category" : "Web Development & Design"
+      },
+      {
+        "Delivery" : "CEFAID",
+        "Url" : "http://www.cefaid.be/webdesign/",
+        "Serial" : "-",
+        "Name" : "Web & Graphic Design",
+        "Date" : "2009 - 2010",
+        "category" : "Web Development & Design"
+      },
+      {
+        "Delivery" : "Openclassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/4074920379",
+        "Serial" : "4074920379",
+        "Name" : "Appliquez les principes du Green IT dans votre entreprise",
+        "Date" : "January 10th, 2020",
+        "category" : "Project Management"
+      },
+    ]
+  }
