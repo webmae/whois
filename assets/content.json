@@ -1,6 +1,14 @@
 {
     "certifications" : [
       {
+        "Delivery" : "Udemy",
+        "Url" : "",
+        "Serial" : "ID UC-532ed662-4a45-4348-8721-1e73f821ea87",
+        "Name" : "Complete Agile Scrum Fundamentals Course",
+        "Date" : "February 2021",
+        "category" : "Project Management"
+      },
+      {
         "Delivery" : "OpenClassrooms",
         "Url" : "https://openclassrooms.com/fr/course-certificates/3707444140",
         "Serial" : "ID 3707444140",
@@ -22,14 +30,6 @@
         "Serial" : "ID 9350684893",
         "Name" : "Gérer votre projet avec une équipe Scrum",
         "Date" : "March 2021",
-        "category" : "Project Management"
-      },
-      {
-        "Delivery" : "Udemy",
-        "Url" : "",
-        "Serial" : "ID UC-532ed662-4a45-4348-8721-1e73f821ea87",
-        "Name" : "Complete Agile Scrum Fundamentals Course",
-        "Date" : "February 2021",
         "category" : "Project Management"
       },
       {
