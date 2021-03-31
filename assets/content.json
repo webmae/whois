@@ -1,6 +1,62 @@
 {
     "certifications" : [
       {
+        "Delivery" : "OpenClassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/3707444140",
+        "Serial" : "ID 3707444140",
+        "Name" : "Construire un roadmap produit",
+        "Date" : "March 2021",
+        "category" : "Project Management"
+      },
+      {
+        "Delivery" : "OpenClassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/3610997316",
+        "Serial" : "ID 3610997316",
+        "Name" : "Perfectionner la gestion de projet agile",
+        "Date" : "March 2021",
+        "category" : "Project Management"
+      },
+      {
+        "Delivery" : "OpenClassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/9350684893",
+        "Serial" : "ID 9350684893",
+        "Name" : "Gérer votre projet avec une équipe Scrum",
+        "Date" : "March 2021",
+        "category" : "Project Management"
+      },
+      {
+        "Delivery" : "Udemy",
+        "Url" : "",
+        "Serial" : "ID UC-532ed662-4a45-4348-8721-1e73f821ea87",
+        "Name" : "Complete Agile Scrum Fundamentals Course",
+        "Date" : "February 2021",
+        "category" : "Project Management"
+      },
+      {
+        "Delivery" : "OpenClassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/6981040604",
+        "Serial" : "ID 6981040604",
+        "Name" : "Auditer l'expérience utilisateur",
+        "Date" : "March 2021",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "OpenClassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/4972059586",
+        "Serial" : "ID 4972059586",
+        "Name" : "Interfaces utilisateurs en Material Design",
+        "Date" : "March 2021",
+        "category" : "UX Design"
+      },
+      {
+        "Delivery" : "OpenClassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/2045166939",
+        "Serial" : "ID 2045166939",
+        "Name" : "Évaluer l’impact d’un UX designer dans l’entreprise",
+        "Date" : "March 2021",
+        "category" : "UX Design"
+      },
+      {
         "Delivery" : "UX Foundation Training",
         "Url" : "https://credly.com/credit/22859578",
         "Serial" : "ID CREDLY-22859578",
