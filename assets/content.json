@@ -1,36 +1,13 @@
 {
     "certifications" : [
-      {
-        "Delivery" : "Udemy",
-        "Url" : "",
-        "Serial" : "ID UC-532ed662-4a45-4348-8721-1e73f821ea87",
-        "Name" : "Complete Agile Scrum Fundamentals Course",
-        "Date" : "February 2021",
-        "category" : "Project Management"
-      },
+      
       {
         "Delivery" : "OpenClassrooms",
-        "Url" : "https://openclassrooms.com/fr/course-certificates/3707444140",
-        "Serial" : "ID 3707444140",
-        "Name" : "Construire un roadmap produit",
+        "Url" : "https://openclassrooms.com/",
+        "Serial" : "-",
+        "Name" : "Concevez un contenu web accessible",
         "Date" : "March 2021",
-        "category" : "Project Management"
-      },
-      {
-        "Delivery" : "OpenClassrooms",
-        "Url" : "https://openclassrooms.com/fr/course-certificates/3610997316",
-        "Serial" : "ID 3610997316",
-        "Name" : "Perfectionner la gestion de projet agile",
-        "Date" : "March 2021",
-        "category" : "Project Management"
-      },
-      {
-        "Delivery" : "OpenClassrooms",
-        "Url" : "https://openclassrooms.com/fr/course-certificates/9350684893",
-        "Serial" : "ID 9350684893",
-        "Name" : "Gérer votre projet avec une équipe Scrum",
-        "Date" : "March 2021",
-        "category" : "Project Management"
+        "category" : "UX Design"
       },
       {
         "Delivery" : "OpenClassrooms",
@@ -67,7 +44,7 @@
       {
         "Delivery" : "Openclassrooms",
         "Url" : "https://openclassrooms.com/fr/course-certificates/3644885450",
-        "Serial" : "3644885450",
+        "Serial" : "ID 3644885450",
         "Name" : "UX design : découvrez les fondamentaux !",
         "Date" : "September 14th, 2019",
         "category" : "UX Design"
@@ -192,6 +169,38 @@
         "Date" : "2009 - 2010",
         "category" : "Web Development & Design"
       },
+      {
+        "Delivery" : "Udemy",
+        "Url" : "https://www.udemy.com/",
+        "Serial" : "ID UC-532ed662-4a45-4348-8721-1e73f821ea87",
+        "Name" : "Complete Agile Scrum Fundamentals Course",
+        "Date" : "February 2021",
+        "category" : "Project Management"
+      },
+      {
+        "Delivery" : "OpenClassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/3707444140",
+        "Serial" : "ID 3707444140",
+        "Name" : "Construire un roadmap produit",
+        "Date" : "March 2021",
+        "category" : "Project Management"
+      },
+      {
+        "Delivery" : "OpenClassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/3610997316",
+        "Serial" : "ID 3610997316",
+        "Name" : "Perfectionner la gestion de projet agile",
+        "Date" : "March 2021",
+        "category" : "Project Management"
+      },
+      {
+        "Delivery" : "OpenClassrooms",
+        "Url" : "https://openclassrooms.com/fr/course-certificates/9350684893",
+        "Serial" : "ID 9350684893",
+        "Name" : "Gérer votre projet avec une équipe Scrum",
+        "Date" : "March 2021",
+        "category" : "Project Management"
+      }, 
       {
         "Delivery" : "Openclassrooms",
         "Url" : "https://openclassrooms.com/fr/course-certificates/4074920379",
